@@ -2,9 +2,9 @@
 
 - I'm Dave Friesen
 - 🔭 I’m currently working on a capstone project for the University of San Diego's MS in Applied Data Science Program
-- 🌱 I’m currently focused on NLP and LLMs
+- 🌱 I’m especially interested in NLP and LLMs
 - 💬 Ask me about my day job
-- 📫 How to reach me: dave@davefriesen.com or @davefriesen on Twitter
+- 📫 You can reach me at dave@davefriesen.com or @davefriesen on Twitter
 - ⚡ Other projects I've recently contributed to include [an advanced data pipeline](https://github.com/lanewhitmore/BIS_Data_Pipeline) and [a text mining project](https://github.com/fausa/Bias_Detection_in_Journalism).
 
 ### Welcome!
