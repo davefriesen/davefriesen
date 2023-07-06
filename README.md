@@ -5,7 +5,7 @@
 - 🌱 I’m currently focused on NLP and LLMs
 - 💬 Ask me about my day job
 - 📫 How to reach me: dave@davefriesen.com or @davefriesen on Twitter
-- ⚡ Other projects I've recently contributed to include [an advanced data pipeline]([URL](https://github.com/lanewhitmore/BIS_Data_Pipeline)) and [a text mining project]([URL](https://github.com/fausa/Bias_Detection_in_Journalism)).
+- ⚡ Other projects I've recently contributed to include [an advanced data pipeline](https://github.com/lanewhitmore/BIS_Data_Pipeline) and [a text mining project](https://github.com/fausa/Bias_Detection_in_Journalism).
 
 ### Welcome!
 
